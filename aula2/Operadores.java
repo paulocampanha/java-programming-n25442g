@@ -75,6 +75,19 @@ public class Operadores {
         System.out.println("(num1 < 4) && (num2 <= 4)? " + ((num1 < 4) && (num2 <= 4)) );
         System.out.println("(num1 > 4) && (num2 <= 4)? " + ((num1 > 4) && (num2 <= 4)) );
         System.out.println("(num1 > 4) && (num2 > 4)? " + ((num1 > 4) && (num2 > 4)) );
+        System.out.println(traco.repeat(30));
+        System.out.println("(num1 < 4) || (num2 <= 4)? " + ((num1 < 4) || (num2 <= 4)) );
+        System.out.println("(num1 > 4) || (num2 <= 4)? " + ((num1 > 4) || (num2 <= 4)) );
+        System.out.println("(num1 > 4) || (num2 > 4)? " + ((num1 > 4) || (num2 > 4)) );
+        System.out.println(traco.repeat(30));
+        System.out.println("cond1: " + cond1);
+        System.out.println("cond2: " + cond2);
+        System.out.println("!cond1: " + !cond1);
+        System.out.println("!cond2: " + !cond2);
+
+
+        
+
 
     }
     
