@@ -1,0 +1,148 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+    
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "TipoString",
+            "request": "launch",
+            "mainClass": "aula1.TipoString",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
+            "name": "TiposPrimitivos",
+            "request": "launch",
+            "mainClass": "aula1.TiposPrimitivos",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "aula2.Operadores",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
+            "name": "Condicional1",
+            "request": "launch",
+            "mainClass": "aula3.Condicional1",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
+            "name": "Condicional3",
+            "request": "launch",
+            "mainClass": "aula3.Condicional3",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio1",
+            "request": "launch",
+            "mainClass": "aula4.Exercicio1",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
+            "name": "Parcelas",
+            "request": "launch",
+            "mainClass": "aula4.Parcelas",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
+            "name": "Switch1",
+            "request": "launch",
+            "mainClass": "aula4.Switch1",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
+            "name": "Switch2",
+            "request": "launch",
+            "mainClass": "aula4.Switch2",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
+            "name": "While1",
+            "request": "launch",
+            "mainClass": "aula4.While1",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio1(1)",
+            "request": "launch",
+            "mainClass": "aula5.Exercicio1",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
+            "name": "Contador",
+            "request": "launch",
+            "mainClass": "aula6.Contador",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
+            "name": "Contagem",
+            "request": "launch",
+            "mainClass": "aula6.Contagem",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio",
+            "request": "launch",
+            "mainClass": "aula6.Exercicio",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
+            "name": "MenuDeOpcoes",
+            "request": "launch",
+            "mainClass": "aula6.MenuDeOpcoes",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
+            "name": "SomarNumeros",
+            "request": "launch",
+            "mainClass": "aula6.SomarNumeros",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
+            "name": "Tabuada",
+            "request": "launch",
+            "mainClass": "aula6.Tabuada",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
+            "name": "TabuadaCompleta",
+            "request": "launch",
+            "mainClass": "aula6.TabuadaCompleta",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "aula7.poo1.Main",
+            "projectName": "n25442g_e452f925"
+        }
+    ]
+}
