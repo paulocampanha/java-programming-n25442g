@@ -30,7 +30,7 @@ public class Gerente extends Funcionario {
 
     @Override
     public void tarefa(){
-        System.out.println(this.nome + ", envie um e-mail de tarefas aos colaboradores do departamento.")
+        System.out.println(this.nome + ", envou um e-mail de tarefas aos colaboradores do departamento.");
     }
     
 }

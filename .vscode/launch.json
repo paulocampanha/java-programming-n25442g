@@ -8,6 +8,90 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "aula17.abstrata2.Main",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "aula17.abstrata1.Main",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "aula15.interface1.Main",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "aula15.constante2.Main",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
+            "name": "Constante",
+            "request": "launch",
+            "mainClass": "aula15.contantes.Constante",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "aula14.exercicio.Main",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "aula14.encapsulamento2.Main",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "aula14.encapsulamento1.Main",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "aula11.banco.Main",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "aula8.heranca2.Main",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "aula8.heranca.Main",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "aula8.exerecicio2.Main",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "aula7.exercicio.Main",
             "projectName": "n25442g_e452f925"
         },

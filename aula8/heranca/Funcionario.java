@@ -29,4 +29,6 @@ public class Funcionario {
     public void tarefa(){
         System.out.println(this.nome + " acaba de receber uma tarefa por e-mail");
     }
+
+    
 }
