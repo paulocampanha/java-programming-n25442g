@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Vetor1",
+            "request": "launch",
+            "mainClass": "aula19.array1.Vetor1",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "aula19.exercicio.Main",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "aula18.polimorfismo2.Main",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "aula18.polimorfismo1.Main",
+            "projectName": "n25442g_e452f925"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "aula17.abstrata2.Main",
